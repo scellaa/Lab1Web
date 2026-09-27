@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">    
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>My Student Profile</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+         <nav>
+        <a href="index.html">Home</a>
+        <a href="https://www.linkedin.com/in/mayscela-herliyawati-a5055b438/"
+           target="_blank"
+           rel="noopener noreferrer">About</a>
+        <a href="mailto:mayscelaherliyawati@gmail.com">Contact</a>
+
+    </nav>
+    <h1 style="text-align: center;">My Student Profile</h1>
+    <img src="images/scela profile.jpg" alt="Profile Picture" style="display: block; margin: 0 auto; width: 200px; height: 200px;">
+    <p style="text-align: center;">Mayscela Herliyawati</p>
+    <p style="text-align: center;">Computer Science Student</p>
+    <h2 style="text-align: center;">About Me</h2>
+    <p style="text-align: center;">Hello everyone! It's such a pleasure to introduce myself. My name is Mayscela Herliyawati, and 
+        I am a computer science student from pelita bangsa university with a passion for technology and programming. <br>
+        I enjoy learning new skills and applying them to real-world projects. My goal is to become a successful software engineer and contribute to the tech industry. <br> 
+        I hope to make a positive impact in the field of technology.</p>
+    <h3 style="text-align: center;"> My Skills</h3>
+    <ul style="text-align: center;">
+        <li>Programming Languages: Python, Java, C++</li>
+        <li>Web Development: HTML, CSS, JavaScript</li>
+        <li>Database Management: MySQL, MongoDB</li>
+        <li>Version Control: Git, GitHub</li>
+        <li>Problem Solving and Algorithm Design</li>
+    </ul>
+    <h4 style="text-align: center;">My Roadmap</h4>
+    <ol style="text-align: center;">
+        <li>Complete my computer science degree with excellent grades.</li>
+        <li>Gain practical experience through internships and projects.</li>
+        <li>Develop a strong portfolio showcasing my skills and projects.</li>
+        <li>Network with professionals in the tech industry.</li>
+        <li>Secure a position as a software engineer in a reputable company.</li>
+    </ol>
+    </body> 
+</html>
