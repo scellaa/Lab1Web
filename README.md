@@ -7,3 +7,10 @@ My Student Profile is a simple personal portfolio website developed using HTML a
 <p>About Me: Introduces my interests in technology, programming, and software development.</p>
 <p>My Skills: Lists my technical skills, including programming languages, web development, database management, version control, and problem-solving.</p>
 <p>My Roadmap: Outlines my academic and professional goals, from completing my degree to pursuing a career as a software engineer.</p>  
+#### Project Structure
+My-Student-Profile/ 
+│
+├── index.html 
+├── styles.css 
+  └── images/ 
+    └── scela profile.jpg
